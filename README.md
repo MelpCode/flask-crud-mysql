@@ -1,6 +1,6 @@
 ## Flask CRUD MySQL
 
-### Step to run the application
+### Steps to run the application
 
 1. Clone the application
 
